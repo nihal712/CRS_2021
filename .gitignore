@@ -1,0 +1,33 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/.metadata/
+
+/bin/
+/RemoteSystemsTempFiles/
+.classpath
+/.settings/
+config.properties
+CRS-JEDI-G2-Flipkart-POS/src/config.properties.txt
+CRS-JEDI-G2-Flipkart-REST/src/main/java/log4j.properties
+CRS-JEDI-G2-Flipkart-REST/src/log4j.properties
